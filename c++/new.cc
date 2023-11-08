@@ -6,7 +6,7 @@ int main(){
 
 
     cout<<"Probando GitHub"<<endl;
-    cout<<"Ha cambiado"<<endl;
+    cout<<"Ha ca"<<endl;
     
     return 0;
 }
